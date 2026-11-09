@@ -85,7 +85,7 @@ function App() {
               <h2>
                 Mesas <span>{pagina === "vip" ? "VIP" : "disponibles"}</span>
               </h2>
-              <p>Selecciona la mesa que mas te guste para continuar</p>
+              <p>Bienvenido a ping reserva xd</p>
             </div>
 
             <div className="grid-mesas">
